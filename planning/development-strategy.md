@@ -32,6 +32,8 @@ CSS: this issue had been developed on a branch `2-coachesInfocss`
 
 - add font-family `Zen Kurenaido`
 
+-
+
 ### Logic: user story
 
 - a _logic_ task -> this will become one issue
