@@ -4,11 +4,12 @@
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- Create a new repo using templates
+- Add collaborators
+- Activate Github pages
+- Brainstorm userpersonas
+- Create backlog
+- create projectboard
 
 ---
 
@@ -18,14 +19,18 @@
 
 <!-- each issue created from this section will have the `for: user story` label -->
 
-> "as a ... i can ... so that ..."
+> "as a coach i want to know more information about students and hyf community"
 
-<!-- write any extra notes or description -->
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+HTML: this issue has been developed on a branch `1-coachesInfo`
+
+- title `h1`
+- discription about students`p`
+- discription about community `p`
+- footer `footer`
+
+CSS: this issue had been developed on a branch `2-coachesInfocss`
+
+- add font-family `Zen Kurenaido`
 
 ### Logic: user story
 
