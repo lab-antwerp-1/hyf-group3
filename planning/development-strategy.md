@@ -1,15 +1,20 @@
-# Project Name
+# HYF Group 3
 
-## <!-- describe your project -->
+## We want to make a website similar to the HYF current website
 
 ## Setup
 
 - Create a new repo using templates
+
 - Add collaborators
+
 - Activate Github pages
+
 - Brainstorm userpersonas
+
 - Create backlog
-- create projectboard
+
+- Create projectboard
 
 ---
 
@@ -19,77 +24,91 @@
 
 <!-- each issue created from this section will have the `for: user story` label -->
 
-### coaches
+### coaches user stories
 
 > "as a coach i want to know more information about students and hyf community"
 
-HTML: this issue has been developed on a branch `1-coachesInfo`
+Interface:
 
-- title `h1`
+HTML:
+
+- title `h1` coaches
 - discription about students`p`
 - discription about community `p`
 - footer `footer`
 
-CSS: this issue had been developed on a branch `2-coachesInfocss`
+CSS:
 
 - add font-family `Zen Kurenaido`
 
 > "as a coach i want to know more on how to sign up to become a coach"
 
-HTML: this issue has been developed on a branch `3-coachesInfo`
+Interface:
 
-- title `h1`
+HTML:
+
+- title `h1` Want to become a coach?
 - description on being a coach `p`
 - sign up button
 - footer
 
-CSS: this issue had been developed on a branch `4-coachesInfocss`
+CSS: this issue had been developed on a branch
 
 - add font-family `Zen Kurenaido`
 - add button hover effect
 
 > "as a coach i want to know how to participate and help
 
-HTML: this issue has been developed on a branch `5-coachesInfo`
+Interface:
 
--title `h1`
+HTML:
+
+-title `h1` How can I help
 
 - description on what is needed from hyf
 - contact form "I want to help"
 - send button
 - footer
 
-CSS: this issue had been developed on a branch `6-coachesInfocss`
+CSS:
 
 - add font-family `Zen Kurenaido`
 - add button hover effect
 
-### students
+This issue had been developed on branch `coachesInfo`
+
+---
+
+### students user stories
 
 > "as a student, i want to know how to find the info about the curriculum"
 
-HTML: this issue had been developed on a branch `1-studentsInfocss`
+Interface:
 
-- title `h1`
+HTML:
+
+- title `h1` Student Curriculum
 - discription about curriculum`p`
 - class schedule`p`
 - footer `footer`
 
-CSS: this issue had been developed on a branch `2-studentsInfocss`
+CSS:
 
 - add font-family `Zen Kurenaido`
 - incert img class schedule
 
 > "as a student, i want to know how to find out what hyf can do for me"
 
-HTML: this issue had been developed on a branch `3-studentsInfocss`
+Interface:
 
-- title `h1`
+HTML:
+
+- title `h1` What can hyf do for you?
 - discription about hyf values and offer`p`
 - sign up button
 - footer `footer`
 
-CSS: this issue had been developed on a branch `4-studentsInfocss`
+CSS:
 
 - add font-family `Zen Kurenaido`
 - info graphic on hyf values and offers
@@ -97,37 +116,201 @@ CSS: this issue had been developed on a branch `4-studentsInfocss`
 
 > "as a student, i want to know what activities does hyf have"
 
-HTML: this issue had been developed on a branch `5-studentsInfocss`
+Interface:
 
-- title `h1`
+HTML:
+
+- title `h1` Student Activities
 - discription about hyf activities`p`
 - footer `footer`
 
-CSS: this issue had been developed on a branch `6-studentsInfocss`
+CSS: this issue had been developed on a branch
 
 - add font-family `Zen Kurenaido`
 - info about activities
 
-### Logic: user story
+this issue had been developed on a branch
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+---
 
-### Interface: user story
+### volunteer user stories
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+> "as a volunteer, i want to know how to find more information how to volunteer
+> at hyf"
 
-### Interaction: user story
+Interface:
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+HTML:
 
-### Documentation: user story
+- title `h1` How to volunteer
+- discription about how to volunteer`p`
+- sign up button
+- footer `footer`
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+CSS:
+
+- add font-family `Zen Kurenaido`
+- img `students and volunteers`
+- hover effect on button
+
+> "as a volunteer, i want to know about the hyf standards and how to get
+> support"
+
+Interface:
+
+HTML:
+
+- title `h1` HYF standards
+- list with hyf standards `ul`
+- a discription og how to get support `p`
+- footer `footer`
+
+CSS:
+
+- add font-family `Zen Kurenaido`
+- add `ul`
+
+This issue had been developed on branch
+
+---
+
+### alumni user stories
+
+> "as alumni, i want to know how to help improve hyf curriculum"
+
+Interface:
+
+HTML:
+
+- title `h1` Want to help improve hyf curriculum?
+- ideas how to help improve curriculum`p`
+- suggestion box
+- footer `footer`
+
+CSS:
+
+- add font-family `Zen Kurenaido`
+- add suggestion box
+
+> "as alumni, i want to know how to best help out new students"
+
+Interface:
+
+HTML:
+
+- title `h1` Help a student
+- discription about how to help`p`
+- sign up button `I want to help`
+- footer `footer`
+
+CSS:
+
+- add font-family `Zen Kurenaido`
+- hover effect button
+
+> "as alumni, i want to know how to do coaching in my free time"
+
+Interface:
+
+HTML:
+
+- title `h1` Coaching in your free time
+- discription about hot to offer coaching`p`
+- contact form (to contact the coach)
+- footer `footer`
+
+CSS:
+
+- add font-family `Zen Kurenaido`
+- add contact form `contact me`
+
+> "as a volunteer, i want to know how I can help promote the hyf program"
+
+Interface:
+
+HTML:
+
+- title `h1` Promote hyf!
+- links with share buttons for social media`p`
+- footer `footer`
+
+CSS:
+
+- add font-family `Zen Kurenaido`
+- links to share on social media `add social media logos`
+
+This issue had been developed on branch
+
+---
+
+### supporters user stories
+
+> "as a supporter, i want to find ways to support hyf financially"
+
+Interface:
+
+HTML:
+
+- title `h1` I want to support
+- discription on how to support`p`
+- 3 buttons to support $10 $20 $?
+- footer `footer`
+
+CSS:
+
+- add font-family `Zen Kurenaido`
+- hover effect on buttons
+- add number field on button to fill amount
+
+> "as a supporter, i want to know how to recruit coaches"
+
+Interface:
+
+HTML:
+
+- title `h1` Recruit coaches
+- list of all coaches with name and email`p`
+- footer `footer`
+
+CSS:
+
+- add font-family `Zen Kurenaido`
+- `ul`
+
+> "as a supporter, i want to know how I can help provide places for live
+> classes"
+
+Interface:
+
+HTML:
+
+- title `h1` Offer a place to study
+- map to show location when adress is entered`p`
+- provide place button
+- footer `footer`
+
+CSS:
+
+- add font-family `Zen Kurenaido`
+- add map to add adress
+- hover effect on button
+
+> "as a supporter, i want to know how i can donate computers for hyf students"
+
+Interface:
+
+HTML:
+
+- title `h1` Provide computers
+- discription about how to provide computers`p`
+- map with drop of location or just adress that leads to google maps
+- footer `footer`
+
+CSS:
+
+- add font-family `Zen Kurenaido`
+- img `students and computers`
+
+This issue had been developed on branch
+
+---
