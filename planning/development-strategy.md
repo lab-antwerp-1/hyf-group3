@@ -243,7 +243,7 @@ This issue had been developed on branch `alumniInfo`
 
 ---
 
-### supporters user stories
+supporters user stories
 
 > "as a supporter, i want to find ways to support hyf financially"
 
