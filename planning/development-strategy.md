@@ -224,7 +224,7 @@ CSS:
 - add font-family `Zen Kurenaido`
 - add contact form `contact me`
 
-> "as a volunteer, i want to know how I can help promote the hyf program"
+> "as alumni, i want to know how I can help promote the hyf program"
 
 Interface:
 
@@ -239,7 +239,7 @@ CSS:
 - add font-family `Zen Kurenaido`
 - links to share on social media `add social media logos`
 
-This issue had been developed on branch
+This issue had been developed on branch `alumniInfo`
 
 ---
 
