@@ -170,7 +170,7 @@ CSS:
 - add font-family `Zen Kurenaido`
 - add `ul`
 
-This issue had been developed on branch
+This issue had been developed on branch `volunteerInfo`
 
 ---
 
