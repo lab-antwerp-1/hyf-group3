@@ -95,6 +95,19 @@ CSS: this issue had been developed on a branch `4-studentsInfocss`
 - info graphic on hyf values and offers
 - hover effect on button
 
+> "as a student, i want to know what activities does hyf have"
+
+HTML: this issue had been developed on a branch `5-studentsInfocss`
+
+- title `h1`
+- discription about hyf activities`p`
+- footer `footer`
+
+CSS: this issue had been developed on a branch `6-studentsInfocss`
+
+- add font-family `Zen Kurenaido`
+- info about activities
+
 ### Logic: user story
 
 - a _logic_ task -> this will become one issue
