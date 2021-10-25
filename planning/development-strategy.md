@@ -124,7 +124,7 @@ HTML:
 - discription about hyf activities`p`
 - footer `footer`
 
-CSS: this issue had been developed on a branch
+CSS: this issue had been developed on a branch `studentInfo`
 
 - add font-family `Zen Kurenaido`
 - info about activities
