@@ -8,7 +8,7 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-|     |     |                         |
+| Mon |  Z  | Dividing workload       |
 
 ## Communication Channels
 
