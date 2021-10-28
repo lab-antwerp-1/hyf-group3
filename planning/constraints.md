@@ -27,10 +27,17 @@ Some boundaries around our project.
 -->
 
 - individual skill levels:
-  - Alina: basic level of HTML and CSS
-  - Sanne: basic level HTML and CSS
-  - Abu: Intermediate level HTML and CSS
-  - Tahmina: basic level HTML and CSS, Intermediate level UI design.
+  - Alina: 
+    - basic level of HTML and CSS
+    - from the very beginning Figma
+  - Sanne: 
+    - basic level HTML and CSS
+    - from the very beginning Figma
+  - Abu  
+    - Intermediate level HTML and CSS
+  - Tahmina  
+    - basic level HTML and CSS  
+    - Intermediate level UI design
 - amount of time available to work on the project
   - Alina: 3h/day
   - Sanne: 5h/day
@@ -42,7 +49,6 @@ Some boundaries around our project.
 <!--
   constraints that your team decided on to help scope the project. they may include:
   - coding style & conventions
-    - We will use HTML & CSS
   - agree on a code review checklist for the project repository
   - the number of hours you want to spend working
   - only using the colors black and white
@@ -61,3 +67,5 @@ Some boundaries around our project.
   - 1 week for /planning 
   - 1 week for development and then launch the website
 - keep the branch number small. Each page has each topic branch. 
+
+
