@@ -11,12 +11,11 @@ Some boundaries around our project.
   - technologies (sometimes a client will tell you what to use)
 -->
 
-- project dead lines:  
+- project dead lines:
   - HYF website/Planning: 31-10-2021;
   - HYF website : 7-11-2021
 - UI design or color schemes
-  - make a simple design 
-
+  - make a simple design
 
 ## Internal: Involuntary
 
@@ -27,16 +26,16 @@ Some boundaries around our project.
 -->
 
 - individual skill levels:
-  - Alina: 
+  - Alina:
     - basic level of HTML and CSS
     - from the very beginning Figma
-  - Sanne: 
+  - Sanne:
     - basic level HTML and CSS
     - from the very beginning Figma
-  - Abu  
+  - Abu
     - Intermediate level HTML and CSS
-  - Tahmina  
-    - basic level HTML and CSS  
+  - Tahmina
+    - basic level HTML and CSS
     - Intermediate level UI design
 - amount of time available to work on the project
   - Alina: 3h/day
@@ -64,8 +63,6 @@ Some boundaries around our project.
       it is essential that you indicate where you got the original version from.
 - agree on a code review checklist for the project repository
 - the number of weeks we want to spend working
-  - 1 week for /planning 
+  - 1 week for /planning
   - 1 week for development and then launch the website
-- keep the branch number small. Each page has each topic branch. 
-
-
+- keep the branch number small. Each page has each topic branch.

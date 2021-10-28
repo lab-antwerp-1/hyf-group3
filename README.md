@@ -1,7 +1,9 @@
 # Hack Your Future - Group 3
 
 <!-- describe your project -->
+
 Creating an other version of Hack Your Future Belgium website.
+
 ## Getting Started
 
 <!-- a guide to using this repository -->
