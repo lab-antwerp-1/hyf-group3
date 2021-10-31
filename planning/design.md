@@ -10,3 +10,4 @@
 <!-- describe some of the reasoning behind your group's design and wireframe -->
 d
 <!-- Alina-about page  -->
+<!-- Alina-supporter page. Close issue #14  -->
