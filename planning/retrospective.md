@@ -3,6 +3,7 @@
 ​
 
 ## Stop Doing
+- Create smaller issues.
 
 ​
 
@@ -10,16 +11,21 @@
 
 - Keep in touch everyday
 - Ask for help
+- Keep doing all the planning before start the coding.
+- Finish the development strategy as a group.
 
 ​
 
 ## Start Doing
-
+- Split the tasks between the team members.
+- Desgin using Figma.
+- Start coding the `HTML` and `CSS`
 ​
 
 ## Lessons Learned
 
 - Eventhough we dont all have the same schedule, we need to put in the time
+- Try to find the right time to meet (10 minutes are enough).
 
 ## Strategy vs. Board
 
