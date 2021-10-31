@@ -11,3 +11,4 @@
 d
 <!-- Alina-about page  -->
 <!-- Alina-supporter page. Close issue #14  -->
+<!-- Alina-alumini page. Close issue #13 -->
