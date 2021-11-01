@@ -99,10 +99,9 @@ nav .content .links{
   line-height: 70px;
   width: 70px;
   text-align: center;
-}
-.wrapper .menu-icon{
   display: none;
 }
+
 
 .wrapper input[type="checkbox"]{
   display: none;
@@ -119,23 +118,26 @@ nav .content .links{
   padding: 10px;
   margin: 1em;
 }
+
+.content .links ul ul{
+  position: absolute;
+  top: 0;
+  right: calc(-100% + 8px);
+}
 .content .links li:hover > ul{
   top: 70px;
   opacity: 1;
   visibility: visible;
   transition: all 0.3s ease;
 }
+
 .content .links ul li a{
   display: block;
   width: 100%;
   line-height: 30px;
   border-radius: 0px!important;
 }
-.content .links ul ul{
-  position: absolute;
-  top: 0;
-  right: calc(-100% + 8px);
-}
+
 .content .links ul li{
   position: relative;
 }
