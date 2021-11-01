@@ -9,3 +9,6 @@
 [Figma](https://www.figma.com/proto/kfQ1Ph4WeA6qHIRT1lfLyD/HYF-Website?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A2)
 <!-- describe some of the reasoning behind your group's design and wireframe -->
 d
+<!-- Alina-about page  -->
+<!-- Alina-supporter page. Close issue #14  -->
+<!-- Alina-alumini page. Close issue #13 -->
