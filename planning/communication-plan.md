@@ -9,6 +9,7 @@
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
 | Mon |  Z  | Dividing workload       |
+| Wed |  Z  | Bringing sections together
 
 ## Communication Channels
 
