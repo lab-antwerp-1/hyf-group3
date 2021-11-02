@@ -260,6 +260,31 @@ nav .content .links{
 
 /* ----------- Section 2 ------------ */
 
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+h3 {
+  font-family: "Space Mono", monospace;
+  font-size: 100%;
+  font-style: normal;
+  text-align: start;
+  padding-left:100px;
+}
+.section-2 {
+  font-family: "Space Mono", monospace;
+  font-size: 100%;
+  font-style: normal;
+  width: 30%;
+  padding-left:100px;
+  text-align: left; 
+  
+}
+.img {
+  position: absolute; right: 20%; top: 30%;
+  max-width: 100%;
+  height: auto; 
+}
+
+
 /* ----------- Section 3 ------------ */
 
 /* ----------- Section 4 ------------ */
