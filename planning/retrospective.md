@@ -3,6 +3,7 @@
 ​
 
 ## Stop Doing
+
 - Create smaller issues.
 
 ​
@@ -17,6 +18,7 @@
 ​
 
 ## Start Doing
+
 - Split the tasks between the team members.
 - Desgin using Figma.
 - Start coding the `HTML` and `CSS`

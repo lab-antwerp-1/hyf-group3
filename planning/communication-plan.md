@@ -45,6 +45,6 @@ There's a fine line between confidently learning from your mistakes, and stub
 bornly getting no where. Here is a general guide for when to ask for help based
 on how long you've been stuck on the same problem:
 
-1. _0 -> 30 min_:
+1. _0 -> 30 min_: You try yourself
 2. _30 -> 60 min_: Ask your group for help
 3. _60+ min_: Tag your coaches in Slack or GitHub
