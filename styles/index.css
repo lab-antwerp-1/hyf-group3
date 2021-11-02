@@ -123,6 +123,13 @@ nav .content .links {
   padding: 10px;
   margin: 1em;
 }
+
+.content .links ul ul {
+  position: absolute;
+  top: 0;
+  right: calc(-100% + 8px);
+}
+
 .content .links li:hover > ul {
   top: 70px;
   opacity: 1;
@@ -130,11 +137,6 @@ nav .content .links {
   transition: all 0.3s ease;
 }
 
-.content .links ul ul {
-  position: absolute;
-  top: 0;
-  right: calc(-100% + 8px);
-}
 .content .links ul li {
   position: relative;
 }
