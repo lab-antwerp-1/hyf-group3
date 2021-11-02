@@ -370,8 +370,9 @@ p {
 }
 
 /* Alina-Change ".footer .social a" to ".footer .container .social a"
- to fix no-descending-specificity problem */
-.footer .container .social a {
+ to fix no-descending-specificity problems; but can't fix all no-descending-specificity problems */
+ /* Alina- Add footer-a in HTML; Change ".footer .social a" to "footer-a" */
+.footer-a {
   margin: 0 10px;
 }
 
