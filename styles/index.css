@@ -368,7 +368,10 @@ nav .content .links {
 p {
   text-align: center;
 }
-.footer .social a {
+
+/* Alina-Change ".footer .social a" to ".footer .container .social a"
+ to fix no-descending-specificity problem */
+.footer .container .social a {
   margin: 0 10px;
 }
 
