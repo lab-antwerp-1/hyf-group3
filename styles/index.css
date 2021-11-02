@@ -403,12 +403,14 @@ p {
   grid-row: 1 / span 2;
 }
 
-.container {
+/* .container {
   max-width: 1100px;
   margin: 0px auto;
   overflow: auto;
   padding: 0 40px;
-}
+} 
+Alina to fix no-duplicate-selectors problem about line 10 */
+
 
 .card {
   background-color: #fff;
