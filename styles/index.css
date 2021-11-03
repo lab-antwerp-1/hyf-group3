@@ -1,11 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   text-decoration: none;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 h1 {
@@ -118,6 +119,13 @@ nav .content .links {
   line-height: 20px;
 }
 
+.content .links ul li a {
+  display: block;
+  width: 100%;
+  line-height: 30px;
+  border-radius: 0 !important;
+}
+
 .content .links li a:hover,
 .content .links li label:hover {
   background: #f2f2f2;
@@ -125,16 +133,13 @@ nav .content .links {
 }
 
 .wrapper .menu-icon {
+  display: none;
   color: #4a50bb;
   font-size: 18px;
   cursor: pointer;
   line-height: 70px;
   width: 70px;
   text-align: center;
-}
-
-.wrapper .menu-icon {
-  display: none;
 }
 
 .wrapper input[type="checkbox"] {
@@ -153,24 +158,17 @@ nav .content .links {
   margin: 1em;
 }
 
+.content .links ul ul {
+  position: absolute;
+  top: 0;
+  right: calc(-100% + 8px);
+}
+
 .content .links li:hover > ul {
   top: 70px;
   opacity: 1;
   visibility: visible;
   transition: all 0.3s ease;
-}
-
-.content .links ul li a {
-  display: block;
-  width: 100%;
-  line-height: 30px;
-  border-radius: 0 !important;
-}
-
-.content .links ul ul {
-  position: absolute;
-  top: 0;
-  right: calc(-100% + 8px);
 }
 
 .content .links ul li {
@@ -185,7 +183,10 @@ nav .content .links {
   padding: 12px 25px;
   border-radius: 0;
   background-color: #4a50bb;
-  -webkit-transition: background-color 400ms ease, opacity 400ms ease, color 400ms ease;
+  -webkit-transition:
+    background-color 400ms ease,
+    opacity 400ms ease,
+    color 400ms ease;
   transition: background-color 400ms ease, opacity 400ms ease, color 400ms ease;
   color: #fff;
   font-size: 12px;
@@ -248,6 +249,11 @@ nav .content .links {
     transition: all 0.3s ease;
   }
 
+  .impact .grid-3 {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+  }
+
   nav #show-menu:checked ~ .content .links {
     left: 0%;
   }
@@ -269,7 +275,6 @@ nav .content .links {
     display: none;
     line-height: 40px;
   }
-
 
   /* dropdown responsive code start */
   .content .links ul,
@@ -317,24 +322,99 @@ nav .content .links {
 
 /* ----------- Section 2 ------------ */
 
-/* ----------- Section 3 ------------ */
+/* ----------- Section 3 impact by Alina------------ */
+.impact {
+  padding-top: 100px;
+  animation: slideInFromBottom 1s ease-in;
+}
+
+.card-imp {
+  background:
+    linear-gradient(
+      90deg,
+      #4a50bb -7.49%,
+      rgba(102, 157, 248, 0.87) 144.39%
+    );
+  color: white;
+  border-radius: 5px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin: 10px;
+}
+
+.background-imp {
+  background: #e1e9f6;
+  border-radius: 12px;
+}
+
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.impact-heading {
+  color: #4a50bb;
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+  padding-left: 1rem;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.sm {
+  font-size: 1rem;
+}
+
+.md {
+  font-size: 2rem;
+}
+
+.my-2 {
+  margin: 1.5rem 0;
+}
+
+/* Section 3 Animations by Alina  */
+@keyframes slideInFromBottom {
+  0% {
+    transform: translateY(100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
 
 /* ----------- Section 4 ------------ */
 .core-value {
   padding: 5%;
 }
 
-.core-value p {
+.core-value .para {
   text-align: left;
   padding-top: 10px;
 }
 
-.core-value img {
+.core-value .image {
   padding-bottom: 10px;
 }
 
-.core-value .grid {
+.core-value .content {
   padding-top: 50px;
+}
+
+@media screen and (max-width: 600px) {
+  .core-value .grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
 
 /* ----------- Section 5 ------------ */
@@ -342,8 +422,6 @@ nav .content .links {
 /* ----------- Section 6 ------------ */
 
 /* ----------- Section 7 ------------ */
-
-
 
 /* ----------- Footer ------------ */
 .bg {
@@ -373,7 +451,11 @@ p {
   text-align: center;
 }
 
-.footer .social a {
+/* Alina-Change ".footer .social a" to ".footer .container .social a"
+ to fix no-descending-specificity problems; but can't fix all no-descending-specificity problems */
+
+/* Alina- Add footer-a in HTML; Change ".footer .social a" to "footer-a" */
+.footer-a {
   margin: 0 10px;
 }
 
@@ -393,7 +475,6 @@ p {
   color: #1c9cea;
 }
 
-
 /* ------- To test sections ------ */
 .cli {
   margin-top: 200px auto;
@@ -409,12 +490,13 @@ p {
   grid-row: 1 / span 2;
 }
 
-.container {
+/* .container {
   max-width: 1100px;
   margin: 0 auto;
   overflow: auto;
   padding: 0 40px;
 }
+Alina to fix no-duplicate-selectors problem about line 10 */
 
 .card {
   background-color: #fff;
