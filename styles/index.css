@@ -340,6 +340,10 @@ nav .content .links {
   max-width: 100%;
   height: auto;
 }
+.imgs {
+  width:20em; 
+  height:15em;
+}
 
 /* ----------- Section 3 impact by Alina------------ */
 .impact {
