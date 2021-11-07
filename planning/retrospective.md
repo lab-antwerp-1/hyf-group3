@@ -14,6 +14,7 @@
 - Ask for help
 - Keep doing all the planning before start the coding.
 - Finish the development strategy as a group.
+- start a task that you can finish or ask for help if you need.
 
 ​
 
